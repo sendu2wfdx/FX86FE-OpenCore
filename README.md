@@ -1,18 +1,18 @@
 # -FX86FE OpenCore0.5.5
-Support Device: FX86FE(I7-8750H)
+           ——Support Device: FX86FE(I7-8750H)
 
 华硕飞行堡垒6（FX86FE）基于OpenCore0.5.5的黑苹果引导文件，支持原生NVRAM（网卡建议更换为DW1820A），95%完美。
 
-支持：
+# -支持：
     MacOS 10.13
     MacOS 10.14
     MacOS 10.15
 
-目前Bug：
+# -目前Bug：
     1.键盘灯快捷键调节（后期AsusSMC可能会支持）
     2.HDMI（此机型HDMI接口直连独显，尝试过在10.13给独显打webdriver，无果，遂放弃）
 
-正常的地方：
+# -正常的地方：
     核显UHD630 2G显存
     原生NVRAM支持（得益于OpenCore 0.5.5）
     USB定制
