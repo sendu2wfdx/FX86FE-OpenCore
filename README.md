@@ -1,6 +1,4 @@
-# -
-FX86FE OpenCore0.5.5
-
+# -FX86FE OpenCore0.5.5
 Support Device: FX86FE(I7-8750H)
 
 华硕飞行堡垒6（FX86FE）基于OpenCore0.5.5的黑苹果引导文件，支持原生NVRAM（网卡建议更换为DW1820A），95%完美。
