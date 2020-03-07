@@ -1,21 +1,45 @@
 #   FX86FE OpenCore0.5.5
     ——Support Device: FX86FE(I7-8750H)
-    华硕飞行堡垒6（FX86FE）基于OpenCore0.5.5的黑苹果引导文件，支持原生NVRAM（网卡建议更换为DW1820A），95%完美。
-# ****-注：需解锁CFG后食用！！！****
+    
+    华硕飞行堡垒6（FX86FE）基于OpenCore0.5.5的黑苹果引导文件
+    支持原生NVRAM（网卡建议更换为DW1820A）95%完美
+# ****-注：需解锁CFG后食用！！！
+#   万一出现问题重刷BIOS即可
 #   -解CFG锁方法：
-    经过查BIOS文件得，CFG Lock的偏移量为0x5C2.
-    （适用于302至306版本BIOS）
-    ****由于BIOS版本不对应或者指令输错产生的问题概不负责。
-    下载Shell文件，放到U盘EFI文件夹，添加引导。
-    （可在BIOS高级选项，BOOT里添加）
-    输入:‘setup_var_3 0x5C2 0x0’按回车即可
-    （若要开启，把0x0改为0x1即可），
-    输入‘reboot’按回车重启
+    经过查BIOS文件得，
+    CFG Lock的偏移量为0x5C2.
+    （这个值适用于302至306版本BIOS）
+    
+    1.下载Shell文件，
+    
+    2.放到U盘EFI文件夹，
+    
+    3.给Shell.efi添加引导(推荐使用BOOTICE)
+    
+    4.开机按ESC，选择Shell
+    
+    5.输入:‘setup_var_3 0x5C2 0x0’按回车即可
+    （若要开启，同理把0x0改为0x1即可）
+    
+    6.输入‘reboot’按回车重启
+
 #   -使用方法：
-    1.将OC，BOOT两个文件夹放在EPS分区的EFI文件夹中，给BOOT文件夹中的BOOTX64.efi添加引导。（推荐使用BOOTIECE，或在BIOS中添加）
-    2.重启，按F2进入BIOS，按F7进入高级选项，关闭安全启动 secure boot（有能力重装系统的可将SATA模式改为AHCI，即可识别固态硬盘）。其余选项无需操作（包括但不限于VT-D，FastBoot，我已经在OC里做好相应屏蔽），F10，回车保存即可。
-    3.开机按ESC，选择OC引导。
+    1.将OC，BOOT两个文件夹放在EPS分区的EFI文件夹中
+    给BOOT文件夹中的BOOTX64.efi添加引导
+    （推荐使用BOOTIECE，或在BIOS中添加）
+    
+    2.重启，F2进入BIOS，按F7进入高级选项，
+    关闭安全启动 secure boot
+    （有能力重装系统的可将SATA模式改为AHCI，即可识别固态硬盘）
+    其余选项无需操作
+    （包括但不限于VT-D，FastBoot，我已经在OC里做好相应屏蔽）
+    F10，回车保存即可
+    
+    3.开机按ESC，
+        选择OC引导。
+    
     4.Enjoy it.
+
 #   -支持：
     MacOS 10.13-10.15
 #   -Bug：
