@@ -38,5 +38,4 @@
     部分Fn快捷键
     声卡ALC235正常，外放，内置麦克风，3.5接口均正常
     SideCar，接力，隔空投送（网卡更换为DW1820A）
-#   -交流群：
-    ![https://github.com/EricCui2333/FX86FE-OpenCore-0.5.5/blob/master/854752511.jpg]
+#   -交流群：![](https://github.com/EricCui2333/FX86FE-OpenCore-0.5.5/blob/master/854752511.jpg)
