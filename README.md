@@ -1,6 +1,6 @@
 # FX86FE OpenCore0.5.8
-## ——Support Device: FX86FE(I7-8750H)
-###   华硕飞行堡垒6（FX86FE）基于OpenCore的引导文件，已同步更新至0.5.8（网卡建议更换为DW1820A）
+## ——Support Device: FX86F
+###   华硕飞行堡垒6（FX86F）基于OpenCore的引导文件，已同步更新至0.5.8（网卡建议更换为DW1820A）
 
 | 支持 | 不支持 |
 | ---------- | -----------|
