@@ -14,8 +14,8 @@
 - [ ] 键盘灯快捷键（等后期AsusSMC作者更新）
 - [ ] HDMI（可通过购买Mac能用的USB转HDMI线解决）
 
-#   注：需解锁CFG后食用！
-#   -交流群：854752511
+注：需解锁CFG后食用！
+交流群：854752511
 ![](https://github.com/EricCui2333/FX86FE-OpenCore-0.5.5/blob/master/854752511.jpg)
-#   -如果觉得好用，请给我打赏支持下
+如果觉得好用，请给我打赏支持下
 ![](https://github.com/EricCui2333/FX86FE-OpenCore-0.5.5/blob/master/打赏.jpg)
