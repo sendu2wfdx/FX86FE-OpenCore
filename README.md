@@ -1,6 +1,6 @@
 # FX86FE OpenCore0.5.8
-    ——Support Device: FX86FE(I7-8750H)
-    华硕飞行堡垒6（FX86FE）基于OpenCore的引导文件，已同步更新至0.5.8（网卡建议更换为DW1820A）
+##——Support Device: FX86FE(I7-8750H)
+###华硕飞行堡垒6（FX86FE）基于OpenCore的引导文件，已同步更新至0.5.8（网卡建议更换为DW1820A）
 [使用教程](https://github.com/EricCui2333/FX86FE-OpenCore-0.5.5/blob/master/零基础教程.PDF)	
 
 - [x] 核显UHD630驱动
