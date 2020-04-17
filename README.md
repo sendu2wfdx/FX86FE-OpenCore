@@ -14,9 +14,9 @@
 | 声卡ALC235正常，外放，内置麦克风，3.5接口均正常 |  |
 | SideCar，接力，隔空投送（网卡更换为DW1820A） |  |
 
-[使用教程](https://github.com/EricCui2333/FX86FE-OpenCore-0.5.5/blob/master/%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B)
-
 ## 注：需解锁CFG后食用！
+
+[使用教程](https://github.com/EricCui2333/FX86FE-OpenCore-0.5.5/blob/master/%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.md)
 
 ### 交流群：854752511
 
