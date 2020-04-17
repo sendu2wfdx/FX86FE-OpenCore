@@ -15,12 +15,12 @@
 
 [使用教程](https://github.com/EricCui2333/FX86FE-OpenCore-0.5.5/blob/master/零基础教程.PDF)	
 
-### 注：需解锁CFG后食用！
+## 注：需解锁CFG后食用！
 
-## 交流群：854752511
+### 交流群：854752511
 
 ![](https://github.com/EricCui2333/FX86FE-OpenCore-0.5.5/blob/master/854752511.jpg)
 
-## 如果觉得好用，请给我打赏支持下！
+### 如果觉得好用，请给我打赏支持下！
 
 ![](https://github.com/EricCui2333/FX86FE-OpenCore-0.5.5/blob/master/打赏.jpg)
