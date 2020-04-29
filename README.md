@@ -18,10 +18,10 @@
 
 [使用教程](https://github.com/EricCui2333/FX86FE-OpenCore-0.5.5/blob/master/guide.pdf)
 
-### 打赏二维码：
-
-![](https://github.com/EricCui2333/FX86FE-OpenCore-0.5.5/blob/master/AliPay.jpg)
-
 ### 交流群：854752511
 
 ![](https://github.com/EricCui2333/FX86FE-OpenCore-0.5.5/blob/master/854752511.jpg)
+
+### 打赏二维码：
+
+![](https://github.com/EricCui2333/FX86FE-OpenCore-0.5.5/blob/master/AliPay.jpg)
