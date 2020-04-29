@@ -1,8 +1,8 @@
 # FX86FE OpenCore0.5.8
-## ——Support Device: FX86F
-###   华硕飞行堡垒6（FX86F）基于OpenCore的引导文件
+## ——Support Device: FX86FE（FX505GE）
+###   华硕飞行堡垒6（FX86FE）基于OpenCore的引导文件
 ####  已同步更新至0.5.8（网卡建议更换为DW1820A）
-
+####  如果你喜欢我的引导文件，不妨打赏支持下
 | 支持 | 不支持 |
 | ---------- | -----------|
 | 核显UHD630驱动  | 键盘灯快捷键（等后期AsusSMC作者更新） |
@@ -16,7 +16,11 @@
 
 ## 注：需解锁CFG后食用！
 
-[使用教程](https://github.com/EricCui2333/FX86FE-OpenCore-0.5.5/blob/master/%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.md)
+[使用教程](https://github.com/EricCui2333/FX86FE-OpenCore-0.5.5/blob/master/guide.pdf)
+
+### 打赏二维码：
+
+![](https://github.com/EricCui2333/FX86FE-OpenCore-0.5.5/blob/master/AliPay.jpg)
 
 ### 交流群：854752511
 
